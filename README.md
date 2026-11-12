@@ -23,14 +23,20 @@ Open Trivia Database:
 
 https://opentdb.com/api.php?amount=5&category=9&difficulty=easy&type=multiple
 
-## Screenshots and Evidence
-See the `screenshots/` folder for evidence of:
-- Loading state
-- Trivia questions
-- Correct and incorrect answer feedback
-- Question progression
-- Final score
+## Video Demonstration
+
+A screen recording demonstrating the Activity 15 Trivia Showdown application is included in the `evidence` folder.
+
+The recording demonstrates:
+- API question loading
+- Multiple-choice answer feedback
+- Correct and incorrect answer handling
+- Question progression and score tracking
+- Final score display
 - Simulated score synchronization
+- Replay functionality
+
+**Note:** Score synchronization is simulated. No backend request was sent.
 
 ## Testing
 - Flutter app launched and tested.
